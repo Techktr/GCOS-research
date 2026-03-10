@@ -1,7 +1,7 @@
 # GCOS — Graph-Causal Operating System
 ## Concept de Recherche — Scheduling orienté graphe causal déterministe
 
-**Auteur** : Trochon Kevin  
+**Auteur** : [Ton nom]  
 **Date** : Mars 2026  
 **Statut** : Concept de recherche — document de paternité intellectuelle
 
@@ -464,6 +464,9 @@ et (3) hiérarchie cache/NUMA comme partitionnement naturel du graphe.
 
 *Document de paternité intellectuelle — Trochon Kevin — Mars 2026*  
 *Toute reproduction partielle ou totale doit citer l'auteur original.*
-© Trochon Kevin 2026
-Ce document est sous licence CC BY-NC 4.0
+
+---
+
+© Trochon Kevin 2026  
+Ce document est sous licence **CC BY-NC 4.0**  
 https://creativecommons.org/licenses/by-nc/4.0/
