@@ -1,7 +1,7 @@
 # GCOS — Graph-Causal Operating System
 ## Concept de Recherche — Scheduling orienté graphe causal déterministe
 
-**Auteur** : [Ton nom]  
+**Auteur** : Trochon Kevin
 **Date** : Mars 2026  
 **Statut** : Concept de recherche — document de paternité intellectuelle
 
